@@ -1,0 +1,40 @@
+.logo-text {
+  padding: 10px 5px 5px 5px;
+  font-size: 22px;
+  font-family: 'Baloo', cursive;
+}
+
+.border-color {
+  background-color: #232528;
+}
+.spacer {
+  height: 75px;
+}
+.spacer-small {
+  height: 25px;
+}
+.my-custom-text {
+  color: white;
+}
+
+.big-name {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 38px;
+  color: white;
+}
+.bigger-name {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 54px;
+  color: white;
+}
+
+.biggest {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 94px;
+  color: white;
+}
+
+.custom-footer {
+  background-color: #0e1014;
+  color: white;
+}
