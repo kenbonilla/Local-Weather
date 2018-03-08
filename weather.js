@@ -38,11 +38,9 @@ function skycon(val) {
 }
 
 function getWeather() {
-  var xsd = ['43c','61','2a3','3ac','336','274','2ea','582','21','e27','b3e','28e','ec','ed5','676','8d7'];
-  var keywapi = "";
-  keywapi += xsd[9] + xsd[5] + xsd[2] + xsd[4];
-  keywapi += xsd[6] + xsd[14] + xsd[11] + xsd[13];
-  keywapi += xsd[10] + xsd[15] + xsd[1];
+
+  var keywapi = ""; //put your dark sky api key here
+
   var darkSkyLink = "";
   
   
